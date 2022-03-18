@@ -58,7 +58,7 @@ function App() {
           <div className="description">
             <EditText
               name="description"
-              defaultValue="For achieving 1000 hours of unpaid overtime. Please make it 2000 next year okay?"
+              defaultValue="For giving honest infos and mental support with memes and cat pics"
               style={{ textAlign: "center" }}
             />
           </div>

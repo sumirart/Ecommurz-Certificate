@@ -3,4 +3,4 @@
 A web to generate ur ecommurz certificate
 
 Screenshot:
-![Screensho](/screenshot.png)
+![Screensho](/screenshot-web.png)
